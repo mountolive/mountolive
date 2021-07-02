@@ -8,9 +8,9 @@ My favorite programming language and the one I feel more comfortable with is **G
 
 ![magic](https://user-images.githubusercontent.com/31831952/124295698-7071a380-db59-11eb-9aae-a16a2977df68.jpg)
 
-But I enjoy also working with might **Python**
+But I enjoy also working with mighty **Python**
 
-And, more recently, throwed in a bit of **Rust**
+And, more recently, throwed in a bit of **Rust** 😄
 
 **See you around! 👋**
 <!--
