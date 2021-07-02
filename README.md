@@ -1,18 +1,19 @@
-### Hey, hey! 👋
+<!-- ### Hey, hey! 👋
 
 I'm Leonardo Guercio and I'm a software engineer with 5+ years of experience.
 
-**Website:** [_in progress_](https://github.com/mountolive/back-blog-go)
+My favorite programming language and the one I feel more comfortable with is **Go** -->
 
-My favorite programming language and the one I feel more comfortable with is **Go**
+**Website:** [_in progress_](https://github.com/mountolive/back-blog-go)
 
 ![magic](https://user-images.githubusercontent.com/31831952/124295698-7071a380-db59-11eb-9aae-a16a2977df68.jpg)
 
+<!--
 But I enjoy also working with mighty **Python**
 
 And, more recently, throwed in a bit of **Rust** 😄
 
-**See you around! 👋**
+**See you around! 👋** -->
 <!--
 **mountolive/mountolive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
