@@ -3,11 +3,9 @@
 I'm Leonardo Guercio and I'm a software engineer with 5+ years of experience.
 
 My favorite programming language and the one I feel more comfortable with is **Go** -->
-
-**Website:** [_in progress_](https://github.com/mountolive/back-blog-go)
-
 ![magic](https://user-images.githubusercontent.com/31831952/124295698-7071a380-db59-11eb-9aae-a16a2977df68.jpg)
 
+**My website:** [_in progress_](https://github.com/mountolive/back-blog-go)
 <!--
 But I enjoy also working with mighty **Python**
 
