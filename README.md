@@ -1,5 +1,28 @@
-### Hi there 👋
+### Hey, hey! 👋
 
+I'm Leonardo Guercio and I'm a software engineer with 5+ years of experience.
+
+**Website:** [_in progress_](https://github.com/mountolive/back-blog-go)
+
+My favorite programming language and the one I feel more comfortable with is **Go** (3+ years) 
+
+![magic](https://user-images.githubusercontent.com/31831952/124295698-7071a380-db59-11eb-9aae-a16a2977df68.jpg)
+
+But I enjoy also working with might **Python** (4+ years)
+
+And, more recently, throwed in a bit of **Rust**
+
+
+I also have hands-on experience with the following languages:
+
+- Java (+3 years)
+
+- Ruby (+3 years)
+
+- Typescript (1+ years)
+
+
+**See you around! 👋**
 <!--
 **mountolive/mountolive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
